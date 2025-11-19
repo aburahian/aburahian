@@ -13,6 +13,16 @@
 
 ---
 
+
+
+## 💫 About Me
+- 🔥 Passionate about modern web development  
+- 🧠 Experienced with real database work, authentication, and CRUD operations  
+- 🎨 Love building smooth UI with Tailwind + React  
+- 🌍 Deploying full projects on Vercel, Netlify & Firebase  
+- 📚 Currently learning: **Next.js | Prisma | JWT | Cloudinary | Web Security**
+
+---
 ## 🌐 Socials
 <p align="left">
   <a href="https://www.facebook.com/abu.rahian.rone">
@@ -30,14 +40,6 @@
 </p>
 
 ---
-
-## 💫 About Me
-- 🔥 Passionate about modern web development  
-- 🧠 Experienced with real database work, authentication, and CRUD operations  
-- 🎨 Love building smooth UI with Tailwind + React  
-- 🌍 Deploying full projects on Vercel, Netlify & Firebase  
-- 📚 Currently learning: **Next.js | Prisma | JWT | Cloudinary | Web Security**
-
 ---
 
 ## 💻 Tech Stack
