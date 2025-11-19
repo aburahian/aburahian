@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/aburahian/aburahian/main/banner.png](https://github.com/aburahian/aburahian/blob/main/banner.png)" alt="Abu Rahian Banner" />
+</p>
 
 <h1 align="center">Hi, I'm Abu Rahian 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Building clean, fast & scalable web apps</h3>
