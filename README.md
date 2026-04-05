@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Abu Rahian 👋</h1>
+<h3 align="center"><a href="[https://x.com/AbuRahian3](https://abu-rahian-portfolio.pages.dev/)">🌐 View My Portfolio</a></h3>
 <h3 align="center">Full-Stack Web Developer | Building clean, fast & scalable web apps</h3>
 
 <p align="center">
